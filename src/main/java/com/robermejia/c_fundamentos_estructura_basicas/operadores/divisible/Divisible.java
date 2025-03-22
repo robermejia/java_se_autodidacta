@@ -1,4 +1,4 @@
-package com.robermejia.operadores.divisible;
+package com.robermejia.c_fundamentos_estructura_basicas.operadores.divisible;
 
 import javax.swing.JOptionPane;
 

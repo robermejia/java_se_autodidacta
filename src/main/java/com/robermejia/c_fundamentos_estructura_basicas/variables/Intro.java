@@ -1,4 +1,4 @@
-package com.robermejia.variables;
+package com.robermejia.c_fundamentos_estructura_basicas.variables;
 // ================== SINTAXIS:===========================
 // TipoDato nombreVariable;
 // Ejemplos: Usuario user, Integer num,  

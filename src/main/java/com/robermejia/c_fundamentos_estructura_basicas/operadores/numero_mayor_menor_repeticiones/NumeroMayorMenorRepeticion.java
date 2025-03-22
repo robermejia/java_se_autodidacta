@@ -1,4 +1,4 @@
-package com.robermejia.operadores.numero_mayor_menor_repeticiones;
+package com.robermejia.c_fundamentos_estructura_basicas.operadores.numero_mayor_menor_repeticiones;
 
 import java.util.HashMap;
 import java.util.Map;

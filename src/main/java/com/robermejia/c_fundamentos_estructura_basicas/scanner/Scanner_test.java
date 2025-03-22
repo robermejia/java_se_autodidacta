@@ -1,4 +1,4 @@
-package com.robermejia.scanner;
+package com.robermejia.c_fundamentos_estructura_basicas.scanner;
 
 import java.util.Scanner;
 

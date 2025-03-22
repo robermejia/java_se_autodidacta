@@ -1,4 +1,4 @@
-package com.robermejia.joptionpane;
+package com.robermejia.c_fundamentos_estructura_basicas.joptionpane;
 
 import javax.swing.JOptionPane;
 

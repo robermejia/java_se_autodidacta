@@ -1,8 +1,8 @@
-package com.robermejia.operadores.numero_mayor;
+package com.robermejia.c_fundamentos_estructura_basicas.operadores.factorial;
 
 import javax.swing.JOptionPane;
 
-public class NumeroMayor {
+public class Factorial {
 
     int num1;
     int num2;
@@ -16,8 +16,7 @@ public class NumeroMayor {
     }
 
     public static void main(String[] args) {
-        
-        NumeroMayor ope1 = new NumeroMayor();
+        Factorial ope1 = new Factorial();
         int num1 = Integer.parseInt(JOptionPane.showInputDialog("Ingresa el primer número"));
         int num2 = Integer.parseInt(JOptionPane.showInputDialog("Ingresa el segundo número"));
         
@@ -25,5 +24,4 @@ public class NumeroMayor {
         
         JOptionPane.showMessageDialog(null, resultado);
     }
-
 }

@@ -1,4 +1,4 @@
-package com.robermejia.operadores.operaciones_aritmeticas;
+package com.robermejia.c_fundamentos_estructura_basicas.operadores.operaciones_aritmeticas;
 
 import javax.swing.JOptionPane;
 
