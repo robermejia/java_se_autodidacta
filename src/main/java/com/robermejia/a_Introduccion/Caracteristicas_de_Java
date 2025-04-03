@@ -1,0 +1,41 @@
+========================================= Características Principales de Java ==========================================
+==== Programación Orientada a Objetos (POO) ============================================================================
+Java es un lenguaje de programación orientado a objetos. Se basa en el concepto de clases y objetos. Las clases son
+plantillas que definen los atributos (datos) y métodos (comportamiento) de los objetos. Los objetos son instancias de
+las clases. La POO promueve la reutilización de código, la modularidad y la organización.
+
+==== Plataforma Independiente ("Write Once, Run Anywhere" - WORA) ======================================================
+Java se ejecuta en una Máquina Virtual Java (JVM), permitiendo que el código compilado (bytecode) se ejecute en
+cualquier sistema operativo con una JVM implementada. Esto proporciona portabilidad y facilita el desarrollo de
+aplicaciones multiplataforma.
+
+==== Gestión Automática de Memoria (Garbage Collection) ================================================================
+Java incluye un recolector de basura automático que gestiona la memoria dinámicamente. Esto libera a los desarrolladores
+ de la tarea de asignar y liberar memoria manualmente, reduciendo errores de memoria como fugas.
+
+NOTA: La forma correcta es "garbage collection".
+Se refiere al proceso de recolección de basura, que es una característica de muchos lenguajes de programación,
+incluyendo Java, que se encarga de liberar la memoria que ya no se utiliza por los programas.
+Aunque "garbage collector" se usa a veces como sinónimo, el término correcto es "garbage collection". Es como decir
+"limpieza de basura" en español, no "recolector de basura".
+
+==== Tipado Estático ===================================================================================================
+Java utiliza un sistema de tipado estático; el tipo de dato de una variable se declara explícitamente. Esto ayuda a
+detectar errores en tiempo de compilación y mejora la seguridad del código.
+
+==== Seguridad =========================================================================================================
+Java tiene características de seguridad integradas, incluyendo un sandbox (entorno seguro) para ejecutar applets y otras
+medidas para proteger contra código malicioso. La JVM juega un papel clave en la seguridad de Java.
+
+==== Concurrencia ======================================================================================================
+Java proporciona soporte para la programación concurrente, permitiendo ejecutar múltiples tareas al mismo tiempo
+mediante el uso de hilos (threads).
+
+==== Bibliotecas y Frameworks Extensos =================================================================================
+Java cuenta con una gran cantidad de bibliotecas y frameworks que proporcionan funcionalidad adicional para diversas
+tareas, desde desarrollo web hasta acceso a bases de datos y creación de interfaces gráficas de usuario (GUI).
+
+==== Evolución Continua ================================================================================================
+Java es un lenguaje en constante evolución, con nuevas versiones que introducen nuevas características y mejoras. La
+comunidad Java es grande y activa, contribuyendo a su desarrollo y soporte.
+
