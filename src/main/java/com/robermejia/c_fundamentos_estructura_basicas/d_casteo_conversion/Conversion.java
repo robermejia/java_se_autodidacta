@@ -1,4 +1,4 @@
-package com.robermejia.c_fundamentos_estructura_basicas.casteo_conversion;
+package com.robermejia.c_fundamentos_estructura_basicas.d_casteo_conversion;
 
 import java.util.Date;
 import java.time.LocalDate;

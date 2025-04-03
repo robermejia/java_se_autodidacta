@@ -1,4 +1,4 @@
-package com.robermejia.c_fundamentos_estructura_basicas.clase_math;
+package com.robermejia.c_fundamentos_estructura_basicas.c_clase_math;
 
 public class Clase_Math {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package com.robermejia.c_fundamentos_estructura_basicas.casteo_conversion;
+package com.robermejia.c_fundamentos_estructura_basicas.d_casteo_conversion;
 
-public class Casteo {
+public class Casting_conversion_explicita {
     public static void main(String[] args) {
         /* 
         Caste: Es un tipo específico de conversión que se refiere a la 
