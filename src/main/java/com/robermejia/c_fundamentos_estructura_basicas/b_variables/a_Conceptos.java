@@ -1,4 +1,4 @@
-package com.robermejia.c_fundamentos_estructura_basicas.variables;
+package com.robermejia.c_fundamentos_estructura_basicas.b_variables;
 // ================== SINTAXIS:===========================
 // TipoDato nombreVariable;
 // Ejemplos: Usuario user, Integer num,  
@@ -18,5 +18,5 @@ package com.robermejia.c_fundamentos_estructura_basicas.variables;
 // 3. No deben tener el mismo nombre que otras variables en el mismo bloque.
 // 4. Si esta compuesta por mas por varias palabras, lleva mayuscula al 
 //    inicio de cada palabra desde lña segunda palabra.
-public class Intro {
+public class a_Conceptos {
 }

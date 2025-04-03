@@ -1,6 +1,6 @@
-package com.robermejia.c_fundamentos_estructura_basicas.variables;
+package com.robermejia.c_fundamentos_estructura_basicas.b_variables;
 
-public class Espacio_Memoria {
+public class c_Espacio_Memoria {
     // Lo más usado
     static String nombre = "Roberto";
     static int edad = 25;
