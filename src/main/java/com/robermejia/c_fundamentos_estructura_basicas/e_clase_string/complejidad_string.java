@@ -1,6 +1,6 @@
-package com.robermejia.c_fundamentos_estructura_basicas.string;
+package com.robermejia.c_fundamentos_estructura_basicas.e_clase_string;
 
-public class String_test {
+public class complejidad_string {
 
     public static void main(String[] args) {
         String a = "a";

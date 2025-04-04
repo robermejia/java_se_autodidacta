@@ -1,8 +1,8 @@
-package com.robermejia.c_fundamentos_estructura_basicas.scanner;
+package com.robermejia.c_fundamentos_estructura_basicas.f_scanner;
 
 import java.util.Scanner;
 
-public class Scanner_test {
+public class clase_scanner {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

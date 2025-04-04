@@ -1,6 +1,6 @@
-package com.robermejia.c_fundamentos_estructura_basicas.string;
+package com.robermejia.c_fundamentos_estructura_basicas.e_clase_string;
 
-public class Metodos {
+public class clase_string {
 
     public static void main(String[] args) {
         String nombre = "Roberto";
@@ -58,7 +58,7 @@ public class Metodos {
     System.out.println("nombre.subString(1, 4) = " + nombre.substring(1, 4));
 
     // substring(int desde)
-    // Extrae la sub-cadean desde la posición indicada (devuelve un: String).
+    // Extrae la sub-cadean desde la posición indicada hasta el final de la cadena (devuelve un: String).
     System.out.println("nombre.subString(1) = " + nombre.substring(1));
 
     // replace(String)

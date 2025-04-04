@@ -2,8 +2,8 @@ package com.robermejia.c_fundamentos_estructura_basicas.b_variables;
 
 import java.util.ArrayList;
 
-// NOTA:
-// No se puede declarar e inicializar en distintas lineas con var.
+
+// =================== NOTA: No se puede declarar e inicializar en distintas lineas con var. ===========================
 
 public class d_Inferencia_de_Tipos {
 

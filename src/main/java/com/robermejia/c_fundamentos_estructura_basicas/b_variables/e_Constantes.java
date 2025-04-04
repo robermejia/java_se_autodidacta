@@ -2,7 +2,7 @@ package com.robermejia.c_fundamentos_estructura_basicas.b_variables;
 
 public class e_Constantes {
 
-    // NOTA: Las constantes de clase por convención el nombre va en MAYUSCULAS.
+    // ============= NOTA: Las constantes de clase por convención el nombre va en MAYUSCULAS. ==========================
 
         // NOTA: Por convención las constantes en main pueden estar en  MINUSCULAS.
         // 1. Constantes de clase (static final): Compartidas por todas las instancias de la clase.
